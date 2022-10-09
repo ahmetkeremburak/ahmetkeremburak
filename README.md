@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmetkeremburak
-- 👀 I’m interested in Java and Unity
+- 👀 I’m interested in Java and Game Development
 - 🌱 I’m currently learning Java, Spring and C#
 - 📫 How to reach me:  
   - with email: ahmet.burak2@ogr.sakarya.edu.tr
