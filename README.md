@@ -16,4 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 
+```text
+Java       43 mins         ███████████████▓░░░░░░░░░   63.31 %
+Markdown   18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+Other      6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+```
+
 <!--END_SECTION:waka-->
