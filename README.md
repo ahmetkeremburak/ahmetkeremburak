@@ -14,6 +14,6 @@ ahmetkeremburak/ahmetkeremburak is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-## A Graph for my coding activity  
+<!--START_SECTION:waka-->
 
-![https://wakatime.com](https://wakatime.com/share/@AKEREMB/b4f9c096-6017-4235-af1c-0ed9915ea3af.png)
+<!--END_SECTION:waka-->
