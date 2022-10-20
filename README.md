@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahmetkeremburak
-- 👀 I’m interested in Java, also Game Development
-- 🌱 I’m currently learning Java, Spring, C# and Unity
-- :book: I'm currently reading "[Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))" by [Miura Kentarou](https://en.wikipedia.org/wiki/Kentaro_Miura).
-- :tv: I'm currently playing "[Astroneer](https://en.wikipedia.org/wiki/Astroneer)"
+- 👀 Interested in Java, also Game Development
+- 🌱 Currently learning Java, Spring, C# and Unity
+- :book: Currently reading "[Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))" by [Miura Kentarou](https://en.wikipedia.org/wiki/Kentaro_Miura).
+- :tv: Currently playing "[Astroneer](https://en.wikipedia.org/wiki/Astroneer)"
 - 📫 How to reach me:  
   - with email: ahmet.burak2@ogr.sakarya.edu.tr
 <!---
