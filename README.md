@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmetkeremburak
-- 👀 Interested in Full Stack Development(Learning on Back-End part now), also Game Development.
+- 👀 Interested in Full Stack Development (Learning on Back-End part now), also Game Development.
 - 🌱 Currently learning Java, Spring, C# and Unity
 - :book: Currently reading "[Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))" by [Miura Kentarou](https://en.wikipedia.org/wiki/Kentaro_Miura).
 - :tv: Currently playing "[Astroneer](https://en.wikipedia.org/wiki/Astroneer)"
