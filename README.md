@@ -4,7 +4,7 @@
 - :book: Currently reading "[Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))" by [Miura Kentarou](https://en.wikipedia.org/wiki/Kentaro_Miura).
 - :tv: Currently playing "[Astroneer](https://en.wikipedia.org/wiki/Astroneer)"
 - 📫 How to reach me:  
-  - with email: ahmet.burak2@ogr.sakarya.edu.tr
+  - via email: ahmet.burak2@ogr.sakarya.edu.tr
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
