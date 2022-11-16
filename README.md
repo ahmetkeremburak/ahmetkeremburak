@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 hrs 51 mins
+Total Time: 18 hrs 16 mins
 
-Markdown   9 hrs 51 mins   █████████████▒░░░░░░░░░░░   53.69 %
-XML        4 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-Java       2 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-C#         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Other      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Markdown   8 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.71 %
+XML        4 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+Java       3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+C#         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Other      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
