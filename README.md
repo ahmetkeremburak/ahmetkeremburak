@@ -17,12 +17,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 hrs 55 mins
+Total Time: 20 hrs 18 mins
 
-Java         12 hrs 41 mins  ████████████████████░░░░░   79.62 %
-Markdown     2 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-Properties   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java         17 hrs 6 mins   █████████████████████░░░░   84.26 %
+Markdown     2 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Properties   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
