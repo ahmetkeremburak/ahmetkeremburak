@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmetkeremburak
 - 👀 Interested in Back-End Development, also Game Development.
-- 🌱 Currently learning Java, Spring, C# and Unity
+- 🌱 Currently learning Java, Spring Framework, SpringBoot, JPA, C# and Unity
 - :book: Currently reading "[Guin Saga](https://en.wikipedia.org/wiki/Guin_Saga)"
 - :tv: Currently playing "[Euro Truck Simulator 2](https://en.wikipedia.org/wiki/Euro_Truck_Simulator_2)"
 - 📫 How to reach me:  
