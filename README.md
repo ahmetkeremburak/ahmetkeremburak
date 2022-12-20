@@ -17,12 +17,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 13 hrs 11 mins
+Total Time: 7 hrs 55 mins
 
-Java         12 hrs 32 mins  ███████████████████████▓░   94.97 %
-Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java       7 hrs 18 mins   ███████████████████████░░   92.12 %
+Markdown   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 ```
 
 <!--END_SECTION:waka-->
