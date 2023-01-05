@@ -28,3 +28,7 @@ Other   1 min           ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ahmetkeremburak&left_color=red&right_color=green)
+<a href="https://github.com/ahmetkeremburak"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ahmetkeremburak.ahmetkeremburak" />
