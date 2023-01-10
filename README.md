@@ -19,14 +19,14 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 16 hrs 31 mins
+Total Time: 11 hrs 32 mins
 
-Java         11 hrs 30 mins  █████████████████▒░░░░░░░   69.52 %
-C#           3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Markdown     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Text         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Java         6 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.14 %
+C#           3 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.51 %
+Markdown     42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Properties   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
