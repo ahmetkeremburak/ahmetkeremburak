@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmetkeremburak
-- 👀 Interested in Web App Development
+- 👀 Interested in Back-End Development
 - 🌱 Currently learning Java, Spring Framework, SpringBoot, JPA, Hibernate
 <!---
 - :book: Currently reading "[Guin Saga](https://en.wikipedia.org/wiki/Guin_Saga)"
