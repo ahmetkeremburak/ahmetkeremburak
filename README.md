@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 26 mins
+Total Time: 16 mins
 
-Java   26 mins         █████████████████████████   100.00 %
+Java   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
