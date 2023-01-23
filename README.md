@@ -2,7 +2,7 @@
 - 👀 Interested in Back-End Development
 - 🌱 Currently learning Java, Spring Framework, SpringBoot, JPA, Hibernate
 - :book: Currently reading "[Guin Saga](https://en.wikipedia.org/wiki/Guin_Saga)"
-- :tv: Currently playing "[Euro Truck Simulator 2](https://en.wikipedia.org/wiki/Euro_Truck_Simulator_2)"
+- :tv: Currently playing "[KartRider: Drift](https://store.steampowered.com/app/1184140/KartRider_Drift/)"
 
 - 📫 How to reach me:  
   - via email: ahmet.burak2@ogr.sakarya.edu.tr
