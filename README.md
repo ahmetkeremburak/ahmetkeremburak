@@ -18,11 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 45 mins
-
-Java         2 hrs 43 mins   ████████████████████████▓   99.18 %
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
