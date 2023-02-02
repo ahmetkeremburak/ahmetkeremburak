@@ -5,7 +5,7 @@
 - :tv: Currently playing "[KartRider: Drift](https://store.steampowered.com/app/1184140/KartRider_Drift/)"
 
 - 📫 How to reach me:  
-  - via email: ahmet.burak2@ogr.sakarya.edu.tr
+  - via email: keremburak00@gmail.com
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
