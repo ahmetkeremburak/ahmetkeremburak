@@ -28,7 +28,7 @@ Java   4 hrs 11 mins   ███████████████████
 <!--END_SECTION:waka-->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ahmetkeremburak&left_color=red&right_color=green) 
+![](https://komarev.com/ghpvc/?username=ahmetkeremburak&color=green&style=flat&label=Visitors)
 
 
 <a href="https://github.com/ahmetkeremburak"><img src="contributions.svg"></a>
