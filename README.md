@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 ```text
 Total Time: 0 secs
 
-No activity tracked
+JSON         0 secs          █████████████████████▓░░░   87.17 %
+JavaScript   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
 ```
 
 <!--END_SECTION:waka-->
