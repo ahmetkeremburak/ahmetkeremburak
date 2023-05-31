@@ -20,10 +20,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 17 mins
 
-JSON         0 secs          █████████████████████▓░░░   87.17 %
-JavaScript   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+JavaScript   13 mins         ██████████████████▒░░░░░░   72.67 %
+Markdown     4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
