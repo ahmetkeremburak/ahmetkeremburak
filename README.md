@@ -19,14 +19,14 @@ You can click the Preview link to take a look at your changes.
 ## My Weekly Stats
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 5 hrs 55 mins
+```txt
+Total Time: 7 hrs 24 mins
 
-JavaScript   5 hrs 30 mins   ███████████████████████░░   92.48 %
-JSON         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   5 hrs 30 mins   ██████████████████▓░░░░░░   74.04 %
+Java         1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
