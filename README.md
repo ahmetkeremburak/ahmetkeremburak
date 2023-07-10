@@ -20,12 +20,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 11 mins
+Total Time: 9 hrs 54 mins
 
-C#           8 hrs 31 mins   ███████████████████████▒░   92.79 %
-JSON         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C#           9 hrs 2 mins    ██████████████████████▓░░   91.33 %
+JSON         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
