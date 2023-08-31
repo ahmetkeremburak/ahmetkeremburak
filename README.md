@@ -20,13 +20,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 18 mins
+Total Time: 43 mins
 
-Java             1 hr 38 mins    █████████████████▓░░░░░░░   70.73 %
-JavaScript       26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-Ezhil            9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-GitIgnore file   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java         28 mins         ████████████████▓░░░░░░░░   66.56 %
+JavaScript   14 mins         ████████░░░░░░░░░░░░░░░░░   32.62 %
+Ezhil        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
