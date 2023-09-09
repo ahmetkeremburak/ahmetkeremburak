@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ```txt
 Total Time: 0 secs
 
-JavaScript   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
