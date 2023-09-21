@@ -20,11 +20,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 mins
+Total Time: 21 mins
 
-Java       20 mins         █████████████████▓░░░░░░░   70.57 %
-Markdown   6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Ezhil      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+YAML       8 mins          █████████▓░░░░░░░░░░░░░░░   38.86 %
+Java       6 mins          ███████░░░░░░░░░░░░░░░░░░   28.24 %
+XML        4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+Markdown   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
 ```
 
 <!--END_SECTION:waka-->
