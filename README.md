@@ -20,11 +20,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 1 hr 53 mins
 
-Properties   0 secs          ███████████████░░░░░░░░░░   60.18 %
-Java         0 secs          ██████████░░░░░░░░░░░░░░░   39.43 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Java Properties   37 mins         ████████▒░░░░░░░░░░░░░░░░   33.14 %
+Java              28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+Properties        23 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+YAML              11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+XML               10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
 ```
 
 <!--END_SECTION:waka-->
