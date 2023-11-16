@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 ```txt
 Total Time: 0 secs
 
-Java         0 secs          ███████████████████░░░░░░   75.59 %
-Properties   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
