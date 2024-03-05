@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmetkeremburak
-- 👀 Interested in Back-End Development
-- 🌱 Working with Java, Spring Framework, SpringBoot, JPA, Hibernate
-- 🏗️ Learning C# and Javascript
+- 👀 Interested in backend development and AI
+- 🌱 Working with Python, Java, C#
+- 🏗️ Learning about docker and rabbitmq
 <!---
 - :book: Currently reading "[Guin Saga](https://en.wikipedia.org/wiki/Guin_Saga)"
 - :tv: Currently playing "[KartRider: Drift](https://store.steampowered.com/app/1184140/KartRider_Drift/)"
