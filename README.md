@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmetkeremburak
 - 👀 Interested in backend development and AI
 - 🌱 Working with Python, Java, C#, docker, rabbitmq
-- 🏗️ Learning about AI Agents
+- 🏗️ Learning about AI Agents, MCP and RAG
 <!---
 - :book: Currently reading "[Guin Saga](https://en.wikipedia.org/wiki/Guin_Saga)"
 - :tv: Currently playing "[KartRider: Drift](https://store.steampowered.com/app/1184140/KartRider_Drift/)"
